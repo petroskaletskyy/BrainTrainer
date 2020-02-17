@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="button_start_new_game">Почати нову гру</string>
+    <string name="imageview_image_answer">Відповідь</string>
+</resources>
